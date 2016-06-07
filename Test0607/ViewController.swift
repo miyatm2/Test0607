@@ -15,6 +15,8 @@ class ViewController: UIViewController {
 		// Do any additional setup after loading the view, typically from a nib.
 		
 		//保存するとMが表示される
+		
+		//ファイルを追加するとAが表示される
 	}
 
 	override func didReceiveMemoryWarning() {
